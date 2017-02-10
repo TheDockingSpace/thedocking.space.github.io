@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Language, humans and IT
+title: Language, Humans and IT
 date: 2017-01-17T22:44:29+00:00
 tags:
 - general
@@ -36,4 +36,4 @@ Cheers,
 
 Oswaldo
 
-> P.S.: If you are curious, I wrote an equivalent to this post in Portuguese in [Linguagem, Humanos e TI]({{ site.baseurl }}{% post_url 2017-01-17-linguagem-humanos-e-ti %})  
+> P.S.: If you are curious, I wrote an equivalent to this post in Portuguese in "[Linguagem, Humanos e TI]({{ site.baseurl }}{% post_url 2017-01-17-linguagem-humanos-e-ti %})"  

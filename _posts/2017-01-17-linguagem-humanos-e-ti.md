@@ -6,9 +6,9 @@ tags:
 - pt_BR
 ---
 
-> This post is in Portuguese. The English equivalent is in [Language, humans and IT]({{ site.baseurl }}{% post_url 2017-01-17-language-humans-and-it %})
-
 Linguagem existe desde antes do homo sapiens e é usada por outras espécies além da nossa, mas focando na nossa por enquanto, existe um número sempre crescente de linguagens sendo criadas e estudadas todos os dias.
+
+> This post is in Portuguese. The English equivalent is in "[Language, humans and IT]({{ site.baseurl }}{% post_url 2017-01-17-language-humans-and-it %})"
 
 Uma das características especiais dos humanos é a forma como nosso cérebro evoluiu para entender conceitos abstratos a ponto de permitir aprimorar as linguagens conscientemente.
 
