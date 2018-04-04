@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/oswaldo
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://thedocking.space
+  * I am oswaldo (https://keybase.io/oswaldo) on keybase.
+  * I have a public key ASDnjTt-DBAU5hVlIysQdH93f6l8gp-1qKE0yhAczsFwhQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e78d3b7e0c1014e61565232b10747f777fa97c829fb5a8a134ca101ccec170850a",
+      "host": "keybase.io",
+      "kid": "0120e78d3b7e0c1014e61565232b10747f777fa97c829fb5a8a134ca101ccec170850a",
+      "uid": "de041e74b3636d0a5e687cbedc1c7d19",
+      "username": "oswaldo"
+    },
+    "merkle_root": {
+      "ctime": 1522880866,
+      "hash": "11e0224924cf2122b696a1ff6ad845e4c9de3ce9b678c492873a2775f7402d6b063fe823e6b7a594e41f29db620a1305552e3b3a05a6450f37230bc8df3b6c79",
+      "hash_meta": "3a3508b6656bc579b1833594c2a960efa434b89ab1368ecd781377ad14744de6",
+      "seqno": 2337587
+    },
+    "service": {
+      "entropy": "BGg1j3rQXwmUlwvfw8DU7iGR",
+      "hostname": "thedocking.space",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.47"
+  },
+  "ctime": 1522880918,
+  "expire_in": 504576000,
+  "prev": "2c0178031b72427c721af18324600d80a9afe394f0e9ec49341154a51a519cac",
+  "seqno": 17,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg5407fgwQFOYVZSMrEHR/d3+pfIKftaihNMoQHM7BcIUKp3BheWxvYWTESpcCEcQgLAF4AxtyQnxyGvGDJGANgKmv45Tw6exJNBFUpRpRnKzEIKYoWkqTCkkFNkFPW3Y01n1DPG77bNsN+Cs4keSGqBLEAgHCo3NpZ8RAkn9PlwiSg54P/xmjjb8YmlZIhXEEpzHXfcKHKk14fsIsS3M4zgeVzQyusrxLzp8zH4RghfQMZUWTN5BSEF+LBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPaF1JVBDxDEQZv9u9si3kNGdv+v51W2MzSKcs+QPnduo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/oswaldo
+
+==================================================================
